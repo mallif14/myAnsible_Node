@@ -1,0 +1,16 @@
+---
+- myStudent: 
+  - name:  srinu
+    phno: 8888888
+    email: srinu@gmail.com
+    address: jpt
+
+  - name:  malli
+    phno:  777777777
+    email:  malli@gmail.com
+    address: hyd
+
+  - name:  chinnu
+    phno:  666666666
+    email: chinnu@gmail.com
+    address: hyd
