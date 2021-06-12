@@ -1,0 +1,5 @@
+---
+- name: restarted the systemd daemon
+  systemd:
+    name: tomcat
+    state: restarted
