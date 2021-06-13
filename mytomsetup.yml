@@ -1,4 +1,4 @@
- ---
+---
 - hosts: myapplicationserves
   become: yes
   roles:
